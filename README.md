@@ -18,7 +18,27 @@ Using Python and Colab, the project uses data visualization techniques and stati
 
 ## A description of the data it uses
 ### Source of the data
+
+The data used in this project comes from a public dataset on restaurant tipping behavior. This dataset contains detailed information about the customer dining experience, including total bill, tip amount, and various demographic information such as gender, smoking status, day of the week, and time of day.
+
 ### Description of the dataset
+
+The dataset contains the following columns:
+- total_bill: The total bill amount for a meal, including tip.
+- tip: The tip amountgiven by the customer.
+- sex: The gender of the customer (Male or Female).
+- smoker: Indicates whether the customer is a smoker (Yes or No).
+- day: The day of the week
+- time: The time of the day when the meal was served (Lunch or Dinner).
+- size: The number of people in the dining party.
+The dataset consists of information from 244 restaurant bills, collected in the US in 1987.
+
 ### How to access or download the data if it's not included in the repository
+
+You can download the dataset in CSV format from public repositories like the Seaborn GitHub repository or manually upload the CSV file to a Jupyter Notebook or Colab environment.
+
+Then load data from the following link: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
+
 ## The main goals
+
 ## Results
