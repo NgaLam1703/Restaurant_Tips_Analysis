@@ -41,4 +41,11 @@ Then load data from the following link: https://raw.githubusercontent.com/RusAbk
 
 ## The main goals
 
+The primary goal of this project is to analyze tipping behavior at restaurants and uncover patterns based on various customer and dining characteristics. Through this analysis, the project aims to provide insights into the factors that influence tip amounts, helping restaurants and researchers understand customer behavior better.
+Key objectives of the project include:
+- Analyze whether smokers tip differently compared to non-smokers (Do people who smoke give more tips?).
+- Explore how male and female customers differ in their tipping behavior (Do males give more tips?).
+- Examine how tips vary between weekdays and weekends (Do weekends bring more tips?).
+- Compare tipping behavior between lunch and dinner (Do dinners bring more tips?).
+
 ## Results
