@@ -8,90 +8,17 @@ The dataset consists of information from 244 restaurant bills, collected in the 
 
 It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 
-## 👣 The First Steps
+## A brief description of what your project does
 
-### 📥 Data import
-First, let's import the needed libraries: Pandas & Matplotlib.
+This project focuses on analyzing a dataset of restaurant receipts and tips to uncover meaningful patterns in customer tipping behavior. The analysis explores how various factors—such as dining time (lunch or dinner), day of the week (weekday or weekend), customer gender, and whether they are a smoker—influence tip amounts.
 
-```
-import pandas as pd
-import matplotlib.pyplot as plt
-```
-Then load data from the following link: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
+In addition, the factors in the above dataset will have any other factors that affect customers' tipping.
 
-```
-df = pd.read_csv('https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv')
-```
+Using Python and Colab, the project uses data visualization techniques and statistical methods to draw insights from the data. The goal is to identify correlations and trends that help explain restaurant customers’ tipping behavior.
 
-### 🔍 Data exploration
-**Test sample**
-Let's take a look at the first 5 rows to be sure, that data is loaded properly:
-```
-df.head(5)
-```
-
-**Column types checking**
-**Ooops... 🤔**
-**Basic descriptive statistics**
-## 💸 Tip value influencers
-### 🚬 Do people who smoke give more tips?
-**Separate smokers and non-smokers**
-**Compare their measures of central tendency**
-### 🌏 Whole dataset
-### 🚬 Smokers
-### 🚭 Non-smokers
-### 📝 Conclusion
-**Insights based on measures of central tendency comparison:**
-## Look at histograms
-### 🌏 Whole dataset tips histogram
-### 🚬 Smokers tips histogram
-### 🚭 Non-smokers tips histogram
-### ⭐ Extra-task with a higher difficulty
-### 📝 Conclusion
-**Insights based on distribution comparison:**
-## 👨👩 Do males give more tips?
-### Male tips compare
-### Female tips compare
-### 📝 Conclusion
-**Insights based on measures of central tendency comparison:**
-## Look at histograms
-### 🌏 Whole dataset tips histogram
-### Male tips histogram
-### Female tips histogram
-### ⭐ Extra-task with a higher difficulty
-### 📝 Conclusion
-**Insights based on distribution comparison:**
-## 📆 Do weekends bring more tips?
-### Separate weekdays and weekends
-### Average tips for weekdays and weekends
-**Insights based on measures of central tendency comparison:**
-## Look at histograms
-### 🌏 Whole dataset tips histogram
-### Weekend tips histogram
-### Weekday tips histogram
-### ⭐ Extra-task with a higher difficulty
-### 📝 Conclusion
-**Insights based on distribution comparison:**
-## 🕑 Do dinners bring more tips?
-### Compare their measures of central tendency
-### Dinner
-### Lunch
-### 📝 Conclusion
-**Insights based on distribution comparison:**
-## Look at histograms
-### 🌏 Whole dataset tips histogram
-### Dinner tips histogram
-### Lunch tips histogram
-### ⭐ Extra-task with a higher difficulty
-### 📝 Conclusion
-## Insights
-
-
-
-
-
-
-
-
-
-
+## A description of the data it uses
+### Source of the data
+### Description of the dataset
+### How to access or download the data if it's not included in the repository
+## The main goals
+## Results
