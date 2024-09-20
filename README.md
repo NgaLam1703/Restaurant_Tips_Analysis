@@ -49,3 +49,12 @@ Key objectives of the project include:
 - Compare tipping behavior between lunch and dinner (Do dinners bring more tips?).
 
 ## Results
+
+The analysis provides clarity on how different factors influence customers' tipping behavior, such as smoking status, gender, day of the week, and time.
+- Smoking status was not a factor influencing customer tipping behavior.
+- Male customers generally tip more than female customers.
+- Dinner and weekend meals tend to receive higher tips.
+In addition to the above factors, customers' behavior of leaving money is also affected by the following reasons:
+- Restaurant service quality
+- Customer satisfaction
+- Customer psychology
